@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1700849999 source:c:\users\user\desktop\tup\programación 2\practica parcial\practica parcial 2\practica final\final progra\nasa\main.cpp
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<cstring>
+	"Final.h"
+
+1700847048 c:\users\user\desktop\tup\programación 2\practica parcial\practica parcial 2\practica final\final progra\nasa\final.h
+
+1702475872 source:c:\users\user\desktop\tup\programación 2\practica parcial\practica parcial 2\practica final\final progra nasa\nasa\main.cpp
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<cstring>
+	"Final.h"
+
+1700850289 c:\users\user\desktop\tup\programación 2\practica parcial\practica parcial 2\practica final\final progra nasa\nasa\final.h
+
