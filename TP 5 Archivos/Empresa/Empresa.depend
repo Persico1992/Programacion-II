@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1695667942 source:c:\users\user\desktop\tup\programación 2\segundocuatri\tp 5 archivos\empresa\main.cpp
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"FuncionesGlobales.h"
+	"Empresa.h"
+	"ArchivoEmpresa.h"
+	"Municipio.h"
+	"ArchivoMunicipio.h"
+	"Categoria.h"
+	"reportes.h"
+	"reportesMunicipio.h"
+	"reportesCategoria.h"
+	"Menu.h"
+
+1694525547 c:\users\user\desktop\tup\programación 2\segundocuatri\tp 5 archivos\empresa\funcionesglobales.h
+
+1695386926 c:\users\user\desktop\tup\programación 2\segundocuatri\tp 5 archivos\empresa\empresa.h
+
+1700881168 c:\users\user\desktop\tup\programación 2\segundocuatri\tp 5 archivos\empresa\archivoempresa.h
+
+1695580669 c:\users\user\desktop\tup\programación 2\segundocuatri\tp 5 archivos\empresa\reportes.h
+
+1695990631 c:\users\user\desktop\tup\programación 2\segundocuatri\tp 5 archivos\empresa\menu.h
+
+1695598256 c:\users\user\desktop\tup\programación 2\segundocuatri\tp 5 archivos\empresa\municipio.h
+
+1695580440 c:\users\user\desktop\tup\programación 2\segundocuatri\tp 5 archivos\empresa\archivomunicipio.h
+
+1695669336 c:\users\user\desktop\tup\programación 2\segundocuatri\tp 5 archivos\empresa\reportesmunicipio.h
+
+1695667991 c:\users\user\desktop\tup\programación 2\segundocuatri\tp 5 archivos\empresa\categoria.h
+
+1695990626 c:\users\user\desktop\tup\programación 2\segundocuatri\tp 5 archivos\empresa\reportescategoria.h
+

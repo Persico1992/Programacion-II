@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1693933969 source:c:\users\user\desktop\tup\programación 2\segundocuatri\tp 4 herencia\ej 2 - inmobiliaria\inmobiliaria\main.cpp
+	<iostream>
+	<cstring>
+	"FuncionesGlobales.h"
+	"ClaseFecha.h"
+	"Inmueble.h"
+
+1693918300 c:\users\user\desktop\tup\programación 2\segundocuatri\tp 4 herencia\ej 2 - inmobiliaria\inmobiliaria\funcionesglobales.h
+
+1693932564 c:\users\user\desktop\tup\programación 2\segundocuatri\tp 4 herencia\ej 2 - inmobiliaria\inmobiliaria\clasefecha.h
+
+1697314835 c:\users\user\desktop\tup\programación 2\segundocuatri\tp 4 herencia\ej 2 - inmobiliaria\inmobiliaria\inmueble.h
+
